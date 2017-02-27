@@ -1,7 +1,7 @@
 {
-  "name": "desktop",
+  "name": "ember-super-rentals",
   "version": "0.0.0",
-  "description": "Small description for desktop goes here",
+  "description": "Small description for ember-super-rentals goes here",
   "license": "MIT",
   "author": "",
   "directories": {
